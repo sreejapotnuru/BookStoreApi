@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\New folder\BookStoreApi\BookStoreApi\obj\Debug\net48\BookStoreApi.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\New folder\BookStoreApi\BookStoreApi\obj\Debug\net48\BookStoreApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\New folder\BookStoreApi\BookStoreApi\obj\Debug\net48\BookStoreApi.exe.config
+C:\Users\DELL\source\repos\New folder\BookStoreApi\BookStoreApi\obj\Debug\net48\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\New folder\BookStoreApi\BookStoreApi\obj\Debug\net48\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\New folder\BookStoreApi\BookStoreApi\obj\Debug\net48\BookStoreApi.AssemblyInfo.cs
+C:\Users\DELL\source\repos\New folder\BookStoreApi\BookStoreApi\obj\Debug\net48\BookStoreApi.csproj.CoreCompileInputs.cache
